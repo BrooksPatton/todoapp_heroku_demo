@@ -1,8 +1,8 @@
 √ Basic express server on heroku
 √ Database provisioned
-- Seed my local database with some todo items
-- A User can add to do items
-- A User can mark todo items complet which makes them go away forever!!!
+√ Seed my local database with some todo items
+√ A User can add to do items
+- A User can mark todo items completed which makes them go away forever!!!
 
 
 
