@@ -1,4 +1,4 @@
-- Basic express server on heroku
+√ Basic express server on heroku
 - Database provisioned
 - Add to do items
 - Remove to do items
